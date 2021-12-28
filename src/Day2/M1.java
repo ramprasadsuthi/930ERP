@@ -16,6 +16,7 @@ public class M1 {
 		int result;
 		result = a-b;
 		System.out.println("The result of a-b is : " + result);
+		System.out.println("This is just fot Testing");
 		
 	}
 	public static void add(int x, int y) {
